@@ -1,0 +1,13 @@
+Sai Version  = 1.1.0
+Win Version  = ▀Е]цлллллллллллллллллллл▀ЪU▀ЛQ║DGu3е┴EЭV▀u3ю;usW┘юu▀>┘Ъt
+▀оЪ╗rGuЪв┐ф;urД_▀MЭ3м^ХbЪЪ▀Е]цлллллjХ,	 
+CPU No.00    = Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+CPU No.01    = Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+CPU No.02    = Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+CPU No.03    = Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 3436MB
